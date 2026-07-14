@@ -1,0 +1,13 @@
+.intro h1{
+    font-size: 34px;
+    color: cornflowerblue;
+}
+.intro p{
+    text-shadow:
+ #447784,
+ #6a7b2c,
+ #3f1165,
+ #452c7b;
+ transition: all;
+
+}
