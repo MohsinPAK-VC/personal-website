@@ -1,13 +1,24 @@
-.intro h1{
-    font-size: 34px;
-    color: cornflowerblue;
+@import url('https://fonts.googleapis.com/css2?family=Montenegrin+Gothic+One&family=Yuyu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bevan:ital@0;1&family=Crafty+Girls&family=Dancing+Script:wght@400..700&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Montenegrin+Gothic+One&family=Yuyu&display=swap');
+ .intro h1 {
+    font-family: 'Yuyu', sans-serif;
+    font-size: 50px;
+    color: rgb(100, 187, 237);
 }
 .intro p{
-    text-shadow:
- #447784,
- #6a7b2c,
- #3f1165,
- #452c7b;
- transition: all;
+    font-size: 24px;
+     font-family: 'Montenegrin Gothic One';
+     text-shadow:  0 0 12px rgba(230, 203, 0, 0.8),
+        0 0 30px rgba(0, 230, 176, 0.4);
+     
+ }
+img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    border: 5px solid rgb(92, 8, 8);
+}
 
+.user-name{
+    color:rgb(92, 8, 8)
 }
